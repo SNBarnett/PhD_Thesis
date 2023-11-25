@@ -1,8 +1,6 @@
 # PhD Thesis Documentation
 
-Sam N. Barnett 
-Clinical Research Medicine PhD Programme
-Imperial College London
+Sam N. Barnett - Clinical Research Medicine Programme - Imperial College London
 
 Thesis Title: The Transcriptional Diversity of the Human Endothelium
 
