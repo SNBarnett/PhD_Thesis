@@ -1,4 +1,4 @@
-# PhD_Thesis
+# Sam N. Barnett PhD Thesis Documentation
 Clinical Research Medicine PhD Programme
 Imperial College London
 
