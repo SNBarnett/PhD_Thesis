@@ -1,7 +1,5 @@
 # PhD Thesis Documentation
 
-Sam N. Barnett
-
 Clinical Medicine Research Programme
 
 National Heart and Lung Institute | Imperial College London
